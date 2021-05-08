@@ -10,4 +10,4 @@ Adding some more text
 * this is a list item
 * this is another list item
 
-![](RashberryPi.jpg)
+![](RaspberryPi.jpg)
